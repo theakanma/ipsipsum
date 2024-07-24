@@ -1,0 +1,1 @@
+swap = {'group', 'image', 'rect'}
